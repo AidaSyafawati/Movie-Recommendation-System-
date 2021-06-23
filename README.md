@@ -52,7 +52,12 @@ Nowadays we live in era of abundance. For any given product, there are many of o
 
 ## D.   PROJECT STRUCTURE
 
+The following directory is our structure of our project:
 
+$ tree --dirsfirst --filelimit 10
+
+- source code.py
+- Malay_Movie_Dataset.csv
 
 
 
