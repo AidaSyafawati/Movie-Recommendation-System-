@@ -54,14 +54,19 @@ Nowadays we live in era of abundance. For any given product, there are many of o
 
 The following directory is our structure of our project:
 
-$ tree --dirsfirst --filelimit 10
+$ tree --dirsfirst --filelimit 6
 
-- Malay_Movie_Dataset.csv
-- source code.py
+> __ Output 2.png
+> SourceCode.py
+- Testing Dataset.py
+- movie_dataset.csv
+- output 1.png
+- plot.png
 
-2 files
+6 files
 
 The dataset/ directory contains the data described in the “Movie Recommendation System Dataset” section.
+- The code is under SouceCode.py. To run that source code you need to
 
 
 
